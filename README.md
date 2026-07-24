@@ -65,7 +65,7 @@ The output confirms:
 
 ### Block Diagram
 
-![Block Diagram](docs/blockdiagram.jpeg)
+![Block Diagram](docs/block_diagram.jpeg)
 
 ### Simulation Waveform
 
