@@ -69,7 +69,7 @@ The output confirms:
 
 ### Simulation Waveform
 
-![Simulation Waveform]([simulation/waveform.png](https://github.com/khushishahh15/4bit-ALU-Verilog-RTL/simulation/wavefrom.png))
+![Simulation Waveform]([simulation/waveform.png]
 
 ---
 
