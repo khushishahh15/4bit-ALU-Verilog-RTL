@@ -65,11 +65,11 @@ The output confirms:
 
 ### Block Diagram
 
-![Block Diagram](docs/block diagram.jpeg)
+![Block Diagram]([docs/block diagram.jpeg])
 
 ### Simulation Waveform
 
-![Simulation Waveform]([simulation/waveform.png]
+![Simulation Waveform]([simulation/waveform.png])
 
 ---
 
