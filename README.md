@@ -25,9 +25,7 @@ Each operation is selected using a 4-bit opcode (`sel`), and the ALU produces a 
 ## Tools Used
 
 - Verilog HDL
-- Icarus Verilog (Simulation)
-- GTKWave (Waveform viewing, optional)
-
+- EDA playground
 
 ## Project Structure
 
@@ -35,7 +33,7 @@ Each operation is selected using a 4-bit opcode (`sel`), and the ALU produces a 
 src/         -> RTL design (alu_4bit.v)
 tb/          -> Testbench (alu_4bit_tb.v)
 docs/        -> ALU block diagram
-simulation/  -> Simulation waveform and console output
+simulation/  -> Simulation waveform and log output
 ```
 
 ---
